@@ -33,12 +33,12 @@ function hello() {
 
 ### Bảng so sánh Git vs GitHub
 
-| Tính năng        | Git | GitHub |
-|------------------|-----|--------|
-|Version Control   | ✅ | ✅     |
-|Remote Repository | ❌ | ✅     |
-| Issue Tracking   | ❌ | ✅     |
-|Pull Requests     | ❌ | ✅     |
+| Tính năng        | Git | GitHub|
+|------------------|-----|-------|
+|Version Control   | ✅ | ✅    |
+|Remote Repository | ❌ | ✅    |
+| Issue Tracking   | ❌ | ✅    |
+|Pull Requests     | ❌ | ✅    |
 
 #### Kết luận
 
